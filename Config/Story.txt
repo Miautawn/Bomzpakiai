@@ -1,0 +1,6 @@
+1.Intro : Waking up
+ Level One : Forest
+	1.1 : Camera cutscene
+		1.1.1 : Fade from black
+		1.1.2 : Camera zoom in to character
+		1.1.3 : Waking up animation
