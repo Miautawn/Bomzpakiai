@@ -112,4 +112,27 @@
 		2.3.8 : Narration :
 			" They do kinda look like you."
 		2.3.9 : Resume gameplay.
+	2.4 Gameplay
+		2.4.1 : Walk left
+		2.4.2 : Interact building 1:
+			2.4.2.1 : Narration :
+				"It's kind of nice, but I wouldnt want to live here."
+		2.4.3 : Interact building 2:
+			2.4.3.1 : Narration :
+				"Doesn't look that much different from the others..."
+				"WAIT!"
+				"Nevermind... thought I saw something unique about it..."
+		2.4.4 : Interact building 3:
+			2.4.4.1 : Narration :
+				"They really all do look the same, don't they..."
+		2.4.5 : Walk until end of level
+	2.5 Cutscene 3
+		2.5.1 : Narration :
+			"You didn't find what you we're looking for?"
+			"Can't blame you."
+			"At least it stoped raining."
+			"..."
+			"I really thought it would work this time."
+		2.5.2 : Char exit scene right
+		2.5.3 : Fade to black
 	
